@@ -1,5 +1,3 @@
-package self_practise;
-
 import java.util.Scanner;
 
 public class Enhanced_For {
